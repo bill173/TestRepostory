@@ -1,5 +1,4 @@
-# mergebranchestest
-This is repostory is created to demo a merge of branches.
+# This is a github repostory just for test, having fun coding...
 
 # This is main branch.
  - A new line of main.
